@@ -3,7 +3,7 @@ Sistema de Peaje
 Este proyecto es un sistema de peaje diseñado con Jakarta EE, que implementa una API RESTful para interactuar con otros sistemas de pago externos. Utiliza una arquitectura moderna y una variedad de tecnologías para garantizar un rendimiento óptimo y una gestión eficiente.
 Tecnologías Utilizadas
 
-    Backend: Jakarta EE
+    Backend: Java / Jakarta EE
     APIs Externas:
         SOAP: Para la integración con un sistema de pago externo.
         REST: Para la integración con otro sistema de pago externo.
